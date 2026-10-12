@@ -48,31 +48,31 @@ For steady-state mixing with no accumulation or mass loss:
 
 Total inlet mass flow rate = Total outlet mass flow rate
 
-\[
-\dot m_{out}=\dot m_1+\dot m_2
-\]
+$$
+\dot{m}_{out} = \dot{m}_1 + \dot{m}_2
+$$
 
 ### 2. Component mass balance
 
 For the solute:
 
-\[
-\dot m_{solute,out}=\dot m_1x_1+\dot m_2x_2
-\]
+$$
+\dot{m}_{solute,out} = \dot{m}_1 x_1 + \dot{m}_2 x_2
+$$
 
-where \(x_1\) and \(x_2\) are the solute mass fractions of the inlet streams.
+where $$\(x_1\)$$ and $$\(x_2\)$$ are the solute mass fractions of the inlet streams.
 
 ### 3. Outlet composition
 
-\[
-x_{solute,out}=\frac{\dot m_{solute,out}}{\dot m_{out}}
-\]
+$$
+x_{solute,out} = \frac{\dot{m}{solute,out}}{\dot{m}{out}}
+$$
 
 The solvent mass fraction is:
 
-\[
-x_{solvent,out}=1-x_{solute,out}
-\]
+$$
+x_{solvent,out} = 1 - x_{solute,out}
+$$
 
 The component mass fractions should sum to 1.
 
