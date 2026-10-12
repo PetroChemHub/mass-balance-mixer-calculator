@@ -132,3 +132,7 @@ This educational tool should not be used as the sole basis for safety-critical o
 Applied Engineering Lab develops educational engineering calculators, worked examples, and practical technical resources.
 
 **Learn. Calculate. Design. Build.**
+
+## Calculator Preview
+
+![Mass Balance Mixer Calculator results](mixer-calculator-results.png)
