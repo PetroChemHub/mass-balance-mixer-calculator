@@ -113,7 +113,8 @@ This educational tool should not be used as the sole basis for safety-critical o
 ## Project Files
 
 - **Excel calculator:** `mass-balance-mixer-calculator.xlsx`
-- **Online spreadsheet:** [Insert your Google Sheets sharing link here]
+- **Online spreadsheet:** ([https://docs.google.com/spreadsheets/d/1O61l5kuQk9KahGslCffM0fiITgfk2IliVjpJGu1qOZU/edit?usp=sharing])
+- - **Detailed blog article:** [Mass Balance Mixer Calculator]([https://appliedengglab.blogspot.com/2026/10/mass-balance-problems-with-solutions.html])
 
 ## Future Improvements
 
